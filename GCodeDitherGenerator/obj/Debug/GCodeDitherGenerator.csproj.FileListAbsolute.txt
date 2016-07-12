@@ -1,0 +1,30 @@
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\GCodeDitherGenerator.exe.config
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\GCodeDitherGenerator.exe
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\GCodeDitherGenerator.pdb
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.GCodeDitherGenerator.resources
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.Properties.Resources.resources
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.csproj.GenerateResource.Cache
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.exe
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.pdb
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.dll
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Imaging.dll
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Math.dll
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.xml
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Imaging.xml
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Math.xml
+c:\users\crone\documents\visual studio 2015\Projects\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.csprojResolveAssemblyReference.cache
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\GCodeDitherGenerator.exe.config
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.exe
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.pdb
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\GCodeDitherGenerator.exe
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\GCodeDitherGenerator.pdb
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.dll
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Imaging.dll
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Math.dll
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.xml
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Imaging.xml
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\bin\Debug\AForge.Math.xml
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.csprojResolveAssemblyReference.cache
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.GCodeDitherGenerator.resources
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.Properties.Resources.resources
+F:\Users\Arochael\Desktop\GCodeDitherGenerator\GCodeDitherGenerator\obj\Debug\GCodeDitherGenerator.csproj.GenerateResource.Cache
